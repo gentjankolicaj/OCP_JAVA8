@@ -8,6 +8,7 @@ public class Sample1 {
 		
 		Stream<String> stream=Stream.iterate("",s->s+"1");
 		stream=stream.limit(2).map(x->x+"2");
+		System.out.println(stream);
 		
 	}
 
