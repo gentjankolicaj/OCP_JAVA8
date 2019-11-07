@@ -1,4 +1,4 @@
-package ocp.java8.functional_prog.streams;
+package ocp.java8.streams;
 
 import java.util.function.BiFunction;
 

@@ -1,4 +1,4 @@
-package ocp.java8.samples;
+package ocp.java8.random_samples;
 
 class A {
 	A() {

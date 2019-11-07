@@ -1,4 +1,4 @@
-package ocp.java8.functional_prog.streams.primitive;
+package ocp.java8.streams.primitive;
 
 import java.util.List;
 import java.util.stream.Collectors;
